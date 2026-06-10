@@ -1,4 +1,4 @@
-# 
+# Custom AI Quiz Generator plugins. Featuring model-training and data-visualization — optimized for maximum performance.
 
 
 
